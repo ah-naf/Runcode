@@ -7,7 +7,7 @@ RunCode is a Node.js package that allows you to execute C, C++, Python, and Java
 Install the package using npm:
 
 ```bash
-npm install runcode
+npm install @ah_naf/runcode
 ```
 
 ### Usage
@@ -15,7 +15,7 @@ npm install runcode
 #### Importing the Module
 
 ```javascript
-const { executePy, executeCpp, executeJava } = require("runcode");
+const { executePy, executeCpp, executeJava } = require("@ah_naf/runcode");
 ```
 
 #### Executing Python Code
