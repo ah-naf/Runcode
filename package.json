@@ -1,6 +1,6 @@
 {
   "name": "@ah_naf/runcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ahnaf Hasan Shifat",
   "description": "A Node.js package to execute C, C++, Python, and Java code using child_process.",
   "main": "index.js",
